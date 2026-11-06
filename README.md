@@ -13,9 +13,9 @@ promedios. El proceso completo está documentado en el informe técnico.
 
 | Archivo / carpeta | Descripción |
 |---|---|
+| `capturas/` | Capturas de pantalla de cada etapa del proceso |
 | `informe/` | Informe técnico en formato PDF |
 | `promedios.py` | Programa en Python que calcula el promedio de tres notas |
-| `capturas/` | Capturas de pantalla de cada etapa del proceso |
 | `README.md` | Este archivo |
 
 ## Entorno utilizado
