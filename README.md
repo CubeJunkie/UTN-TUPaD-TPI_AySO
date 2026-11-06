@@ -31,7 +31,7 @@ promedios. El proceso completo está documentado en el informe técnico.
 1. Abrir una terminal en Ubuntu y ubicarse en la carpeta del archivo:
    `cd [nombre de la carpeta]`
 2. Ejecutar:
-   `python3 promedio.py`
+   `python3 promedios.py`
 3. Ingresar los valores solicitados por consola. El programa muestra el
    promedio calculado.
 
