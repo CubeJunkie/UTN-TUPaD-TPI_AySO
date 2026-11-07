@@ -9,6 +9,9 @@ Implementación de un entorno virtualizado con Oracle VM VirtualBox, en el que
 se instala Ubuntu 22.04 LTS y se ejecuta un programa en Python que calcula
 promedios. El proceso completo está documentado en el informe técnico.
 
+## Enlace al video del trabajo
+https://www.youtube.com/watch?v=kOAKrHQeP0w
+
 ## Contenido del repositorio
 
 | Archivo / carpeta | Descripción |
