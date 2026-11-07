@@ -35,7 +35,7 @@ promedios. El proceso completo está documentado en el informe técnico.
 3. Ingresar los valores solicitados por consola. El programa muestra el
    promedio calculado.
 
-Ejemplo: al ingresar 7, 8 y 9, el resultado es 8.00
+Ejemplo: al ingresar 7, 8.5 y 9, el resultado es 8.17
 
 ## Autoría
 
