@@ -1,4 +1,4 @@
-# Trabajo Práctico Integrador: Entorno Virtualizado Linux (Ubuntu 22.04 LTS) en Oracle VM VirtualBox y aplicación en Python para cálculo de promedios
+# Trabajo Práctico Integrador: Entorno Virtualizado Linux (Ubuntu) en Oracle VM VirtualBox y aplicación en Python para cálculo de promedios
 
 Trabajo práctico de la asignatura Arquitectura y Sistemas Operativos
 (Tecnicatura Universitaria en Programación, UTN).
